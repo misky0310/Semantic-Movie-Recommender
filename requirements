@@ -1,0 +1,16 @@
+# Core dependencies
+pandas
+langchain
+chromadb
+langchain-ollama
+groq-client
+transformers
+scikit-learn
+gradio
+python-dotenv
+
+# Optional utilities
+seaborn
+matplotlib
+datasets
+huggingface-hub
